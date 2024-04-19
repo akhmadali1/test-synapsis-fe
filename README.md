@@ -1,4 +1,20 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# PT Synapsis Sinergi Digital - Front-End Developer Challenge (Akhmad Ali Ernawan)
+**Introduction**
+
+This repository houses the code for a single-page blog application built as a Front-End Developer challenge for PT Synapsis Sinergi Digital. The application leverages JavaScript frameworks (Next.js) to provide a dynamic and user-friendly experience.
+
+**Project Requirements**
+
+-   **Technology Stack:**
+    -   Front-End Framework: Next.js
+    -   Data Source: Public API ([https://gorest.co.in/](https://gorest.co.in/))
+-   **Features:**
+    -   **Blog Posts:**
+        -   List view with paginated display
+        -   Detail view with comments and user information
+    -   **Users:**
+        -   CRUD (Create, Read, Update, Delete) operations via user interface
+        -   Search functionality for users
 
 ## Getting Started
 
